@@ -1,0 +1,7 @@
+rpc:
+  name: wbc
+  host: 127.0.0.1
+  port: 8848
+  version: v1.0.0
+system:
+  logLevel: debug
