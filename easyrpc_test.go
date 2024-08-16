@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/wbcangus/wbc-rpc/consumer"
+	"github.com/wbcangus/wbc-rpc/model"
 	"testing"
-	"wbc-rpc/consumer"
-	"wbc-rpc/model"
 )
 
 func TestRpcServer(t *testing.T) {

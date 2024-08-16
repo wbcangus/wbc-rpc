@@ -4,12 +4,12 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/wbcangus/wbc-rpc/constant"
+	"github.com/wbcangus/wbc-rpc/model"
 	"io"
 	"log"
 	"net/http"
 	"reflect"
-	"wbc-rpc/constant"
-	"wbc-rpc/model"
 )
 
 // RpcServer 定义一个RpcServer结构体

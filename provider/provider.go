@@ -1,8 +1,8 @@
 package provider
 
 import (
+	"github.com/wbcangus/wbc-rpc/core"
 	"reflect"
-	"wbc-rpc/core"
 )
 
 var rpcServer = core.NewRpcServer()
